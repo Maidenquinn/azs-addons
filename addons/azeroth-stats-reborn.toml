@@ -1,0 +1,18 @@
+id = "azeroth-stats-reborn"
+name = "Azeroth Stats Reborn"
+author = "Kevin / Maidenquinn"
+repo = "Maidenquinn/azeroth-stats-reborn"
+description = "Run history, combat analysis, builds, progression, themes and shared local backups for Azeroth Survivors Reborn."
+category = "Combat"
+license = "LicenseRef-AzerothStats-Notice"
+folders = ["AzerothStatsReborn"]
+requires = []
+
+[source]
+type = "release"
+asset = "AzerothStatsReborn-*.zip"
+
+[reborn]
+status = "works"
+tested = "0.6.7 / 0.1.0-reborn.1"
+notes = "Single-player recipe passed on 0.6.7: history, themes, icons, shared defaults, in-addon migration, reload persistence, classic rollback and safety recovery. Automated and installed-API checks pass. Requires bundled AzerothSurvivorsAPI. Co-op and all class/resolution combinations are not independently certified. See bundled notices."
