@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 8,
+  "serial": 9,
   "addons": [
     {
       "id": "asr-advisor",
@@ -176,6 +176,31 @@
         "status": "works",
         "tested": "0.6.5 / 0.1.0-reborn.35",
         "notes": "Maintainer accepted the 0.1.0-reborn.35 gameplay recipe on client 0.6.5 (2026-11-15), including world-marker placement and height controls with native/illustrated layouts. Automated API, settings and profile tests pass. Requires the game's bundled AzerothSurvivorsAPI. Co-op and other resolutions are not independently certified. See repository notices for inherited rights."
+      }
+    },
+    {
+      "id": "azeroth-stats-reborn",
+      "name": "Azeroth Stats Reborn",
+      "author": "Kevin / Maidenquinn",
+      "repo": "Maidenquinn/azeroth-stats-reborn",
+      "description": "Run history, combat analysis, builds, progression, themes and shared local backups for Azeroth Survivors Reborn.",
+      "category": "Combat",
+      "license": "LicenseRef-AzerothStats-Notice",
+      "folders": [
+        "AzerothStatsReborn"
+      ],
+      "requires": [],
+      "interface": [
+        11200
+      ],
+      "version": "v0.1.0-reborn.1",
+      "asset_url": "https://github.com/Maidenquinn/azeroth-stats-reborn/releases/download/v0.1.0-reborn.1/AzerothStatsReborn-0.1.0-reborn.1.zip",
+      "size": 19190691,
+      "sha256": "f9500e6ff35727f9ef424f18422b20e2f03792ba48275b6e5b53585976f396b0",
+      "reborn": {
+        "status": "works",
+        "tested": "0.6.7 / 0.1.0-reborn.1",
+        "notes": "Single-player recipe passed on 0.6.7: history, themes, icons, shared defaults, in-addon migration, reload persistence, classic rollback and safety recovery. Automated and installed-API checks pass. Requires bundled AzerothSurvivorsAPI. Co-op and all class/resolution combinations are not independently certified. See bundled notices."
       }
     },
     {
