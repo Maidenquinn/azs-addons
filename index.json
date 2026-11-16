@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 7,
+  "serial": 8,
   "addons": [
     {
       "id": "asr-advisor",
@@ -11,16 +11,17 @@
       "category": "Combat",
       "license": "GPL-3.0-only",
       "folders": [
+        "ASRAdvisor",
         "ASAdvisor"
       ],
       "requires": [],
       "interface": [
         30300
       ],
-      "version": "v0.6.1",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.1/ASRAdvisor-v0.6.1.zip",
-      "size": 91672,
-      "sha256": "93d8d4821463a75c9ed874a97ab434d6ab937db30f5350c3738f26756b433d61",
+      "version": "v0.6.2",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRAdvisor-v0.6.2.zip",
+      "size": 104553,
+      "sha256": "dc1d5a3bf03f72299f7b43368c49f8ed3ce169dfc6903044c998317808b1a55e",
       "reborn": {
         "status": "untested",
         "tested": "",
