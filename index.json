@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 8,
+  "serial": 9,
   "addons": [
     {
       "id": "asr-advisor",
@@ -26,6 +26,31 @@
         "status": "untested",
         "tested": "",
         "notes": ""
+      }
+    },
+    {
+      "id": "asr-chat",
+      "name": "ASR Chat",
+      "author": "AlexEnotov",
+      "repo": "AlexEnotov/ASR-Addons",
+      "description": "Movable native chat with tabs, compact controls, appearance and message copying.",
+      "category": "Chat",
+      "license": "GPL-3.0-only",
+      "folders": [
+        "ASRChat"
+      ],
+      "requires": [],
+      "interface": [
+        30300
+      ],
+      "version": "v0.6.2",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRChat-v0.6.2.zip",
+      "size": 30423,
+      "sha256": "172f5a6dd5072e004dce2904b081b484d0f9f5e848e826be920dc7152ee81c34",
+      "reborn": {
+        "status": "untested",
+        "tested": "",
+        "notes": "Native messages, tabs, input and interface fading verified locally."
       }
     },
     {
@@ -101,6 +126,31 @@
         "status": "works",
         "tested": "0.6.5",
         "notes": "Tested in solo play: equipment drops, sold duplicates and optional Suite settings."
+      }
+    },
+    {
+      "id": "asr-party",
+      "name": "ASR Party",
+      "author": "AlexEnotov",
+      "repo": "AlexEnotov/ASR-Addons",
+      "description": "Movable classic and compact party frames with health and revival status.",
+      "category": "Unit Frames",
+      "license": "GPL-3.0-only",
+      "folders": [
+        "ASRParty"
+      ],
+      "requires": [],
+      "interface": [
+        30300
+      ],
+      "version": "v0.6.2",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRParty-v0.6.2.zip",
+      "size": 26274,
+      "sha256": "83fd1cf77ec5df14018e2689071e27a12b9c82d24a90c4e147006076b9c7773c",
+      "reborn": {
+        "status": "untested",
+        "tested": "",
+        "notes": "Classic and compact layouts verified locally; live co-op validation remains limited."
       }
     },
     {
