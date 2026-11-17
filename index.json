@@ -218,14 +218,14 @@
       "interface": [
         11200
       ],
-      "version": "v0.1.0-reborn.35",
-      "asset_url": "https://github.com/Maidenquinn/azeroth-fieldkit-reborn/releases/download/v0.1.0-reborn.35/AzerothFieldKitReborn-0.1.0-reborn.35.zip",
-      "size": 22058656,
-      "sha256": "16a6c513694deb8b14e0e3c28f9e33d019f754577c7e03d3454f2f78f74af6c1",
+      "version": "v0.1.0-reborn.36",
+      "asset_url": "https://github.com/Maidenquinn/azeroth-fieldkit-reborn/releases/download/v0.1.0-reborn.36/AzerothFieldKitReborn-0.1.0-reborn.36.zip",
+      "size": 25370991,
+      "sha256": "85f6b73d25c9b3b7ab90ef8d874d2c1c0dabf12632ae62045b76bbb31af4c5ff",
       "reborn": {
         "status": "works",
-        "tested": "0.6.5 / 0.1.0-reborn.35",
-        "notes": "Maintainer accepted the 0.1.0-reborn.35 gameplay recipe on client 0.6.5 (2026-11-15), including world-marker placement and height controls with native/illustrated layouts. Automated API, settings and profile tests pass. Requires the game's bundled AzerothSurvivorsAPI. Co-op and other resolutions are not independently certified. See repository notices for inherited rights."
+        "tested": "0.6.8 / 0.1.0-reborn.36",
+        "notes": "Maintainer accepted .36 on client 0.6.8 (2026-11-17): live HUD alignment grid, temporary chat mover, minimap scale correction and fourteen UI languages with automatic language selection. Existing settings/profiles retained. Requires bundled AzerothSurvivorsAPI. Automated API, locale, font, settings and profile tests pass; native-speaker wording feedback welcome. See repository notices for rights."
       }
     },
     {
