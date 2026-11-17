@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 10,
+  "serial": 11,
   "addons": [
     {
       "id": "asr-advisor",
@@ -218,14 +218,14 @@
       "interface": [
         11200
       ],
-      "version": "v0.1.0-reborn.36",
-      "asset_url": "https://github.com/Maidenquinn/azeroth-fieldkit-reborn/releases/download/v0.1.0-reborn.36/AzerothFieldKitReborn-0.1.0-reborn.36.zip",
-      "size": 25370991,
-      "sha256": "85f6b73d25c9b3b7ab90ef8d874d2c1c0dabf12632ae62045b76bbb31af4c5ff",
+      "version": "v0.1.0-reborn.37",
+      "asset_url": "https://github.com/Maidenquinn/azeroth-fieldkit-reborn/releases/download/v0.1.0-reborn.37/AzerothFieldKitReborn-0.1.0-reborn.37.zip",
+      "size": 25376730,
+      "sha256": "fe43bc7d7f1f23551d43435fc11ec371efafca76bcf690bf877c209f87878fae",
       "reborn": {
         "status": "works",
-        "tested": "0.6.8 / 0.1.0-reborn.36",
-        "notes": "Maintainer accepted .36 on client 0.6.8 (2026-11-17): live HUD alignment grid, temporary chat mover, minimap scale correction and fourteen UI languages with automatic language selection. Existing settings/profiles retained. Requires bundled AzerothSurvivorsAPI. Automated API, locale, font, settings and profile tests pass; native-speaker wording feedback welcome. See repository notices for rights."
+        "tested": "0.6.9 / 0.1.0-reborn.37",
+        "notes": "Client 0.6.9: repaired previews, native Endless countdown/state, live stat caps and large meter totals. Fourteen languages; profiles/layouts retained. Requires bundled AzerothSurvivorsAPI. Automated API, locale/font, settings and persistence checks pass. Native FR/Elwynn preview/cap inspection passed; live Endless/co-op not certified. See release notes and rights notices."
       }
     },
     {
