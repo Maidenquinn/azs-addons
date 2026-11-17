@@ -14,5 +14,5 @@ asset = "AzerothFieldKitReborn-*.zip"
 
 [reborn]
 status = "works"
-tested = "0.6.8 / 0.1.0-reborn.36"
-notes = "Maintainer accepted .36 on client 0.6.8 (2026-11-17): live HUD alignment grid, temporary chat mover, minimap scale correction and fourteen UI languages with automatic language selection. Existing settings/profiles retained. Requires bundled AzerothSurvivorsAPI. Automated API, locale, font, settings and profile tests pass; native-speaker wording feedback welcome. See repository notices for rights."
+tested = "0.6.9 / 0.1.0-reborn.37"
+notes = "Client 0.6.9: repaired previews, native Endless countdown/state, live stat caps and large meter totals. Fourteen languages; profiles/layouts retained. Requires bundled AzerothSurvivorsAPI. Automated API, locale/font, settings and persistence checks pass. Native FR/Elwynn preview/cap inspection passed; live Endless/co-op not certified. See release notes and rights notices."
