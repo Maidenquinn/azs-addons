@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 11,
+  "serial": 12,
   "addons": [
     {
       "id": "asr-advisor",
@@ -18,10 +18,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.2",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRAdvisor-v0.6.2.zip",
-      "size": 104553,
-      "sha256": "dc1d5a3bf03f72299f7b43368c49f8ed3ce169dfc6903044c998317808b1a55e",
+      "version": "v0.6.3",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.3/ASRAdvisor-v0.6.3.zip",
+      "size": 282738,
+      "sha256": "c688d40710b0b27d9e7434c9b914d26238507042da0c5bc47debd370faac5c39",
       "reborn": {
         "status": "untested",
         "tested": "",
@@ -43,10 +43,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.2",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRChat-v0.6.2.zip",
-      "size": 30423,
-      "sha256": "172f5a6dd5072e004dce2904b081b484d0f9f5e848e826be920dc7152ee81c34",
+      "version": "v0.6.3",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.3/ASRChat-v0.6.3.zip",
+      "size": 41200,
+      "sha256": "758e4bac34457402701f82a8405e9b77af4d4557c26ec54164d10dfa985c9aa2",
       "reborn": {
         "status": "untested",
         "tested": "",
@@ -68,10 +68,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.2",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRCombatText-v0.6.2.zip",
-      "size": 26281,
-      "sha256": "50915eadeeaa3f66225addc4a804676b7830e9bdf47c11cb4ad3a8100c5a007a",
+      "version": "v0.6.3",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.3/ASRCombatText-v0.6.3.zip",
+      "size": 32713,
+      "sha256": "8ce87356800547993ec96ae172e878bb558f288beadf38cc46ba1781d9e2c5a2",
       "reborn": {
         "status": "untested",
         "tested": "",
@@ -93,10 +93,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.2",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASREndless-v0.6.2.zip",
-      "size": 31116,
-      "sha256": "d5dbd0f61d6dfedafd369c5374c1adc10f210df19bcebdeabdda6327f1a3d57e",
+      "version": "v0.6.3",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.3/ASREndless-v0.6.3.zip",
+      "size": 66492,
+      "sha256": "07ad7ed8ac338a8aa03f3be6d7063af0ef68efe9ec693868ad66e0c551a643d3",
       "reborn": {
         "status": "untested",
         "tested": "",
@@ -118,10 +118,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.2",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRLoot-v0.6.2.zip",
-      "size": 39894,
-      "sha256": "26008693010d98901494783dd7be7c7cb7a4b90aeb3551e31749c241d01131e4",
+      "version": "v0.6.3",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.3/ASRLoot-v0.6.3.zip",
+      "size": 48828,
+      "sha256": "4eeb031f06eda0cc5e41fef23a53f2b80efd36447ecaeb1763fd5d2aa184c1e6",
       "reborn": {
         "status": "works",
         "tested": "0.6.5",
@@ -143,10 +143,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.2",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRParty-v0.6.2.zip",
-      "size": 26274,
-      "sha256": "83fd1cf77ec5df14018e2689071e27a12b9c82d24a90c4e147006076b9c7773c",
+      "version": "v0.6.3",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.3/ASRParty-v0.6.3.zip",
+      "size": 35718,
+      "sha256": "78a83ea593a985603250e0ba0125b3ba3609b4135122a09b797156b20a0b5053",
       "reborn": {
         "status": "untested",
         "tested": "",
@@ -168,10 +168,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.2",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRStats-v0.6.2.zip",
-      "size": 22137,
-      "sha256": "915260d5e6c29c39c42f095831d7f566173061ff2e9e58df015953db917d1537",
+      "version": "v0.6.3",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.3/ASRStats-v0.6.3.zip",
+      "size": 40177,
+      "sha256": "36b4afa11ff16c8e9eda200c108c0a01dac134205876edcecc4556d5a51abf0b",
       "reborn": {
         "status": "untested",
         "tested": "",
@@ -193,10 +193,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.2",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.2/ASRSuite-v0.6.2.zip",
-      "size": 49219,
-      "sha256": "a3e587f29755ec61b40fb81f1792ecb248795a79854963bd968f58a56d2c34f7",
+      "version": "v0.6.3",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.3/ASRSuite-v0.6.3.zip",
+      "size": 89963,
+      "sha256": "31c64502154831cd03952d88552cb8e34fa648a400a683ebf34da2ce8430dcb4",
       "reborn": {
         "status": "untested",
         "tested": "",
