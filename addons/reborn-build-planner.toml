@@ -1,5 +1,5 @@
-# Author-submitted entry; current beta is a GitHub prerelease, which the
-# index's automatic pinning intentionally skips until an eligible release exists.
+# Author-submitted entry. Stable public release v0.5.0 is now available
+# for the upstream pin workflow to verify and pin.
 id = "reborn-build-planner"
 name = "Reborn Build Planner"
 author = "Maidenquinn / Maidenhead"
