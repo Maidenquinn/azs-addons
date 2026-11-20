@@ -1,0 +1,21 @@
+# Author-submitted entry. Stable public release v0.5.0 is now available
+# for the upstream pin workflow to verify and pin.
+id = "reborn-build-planner"
+name = "Reborn Build Planner"
+author = "Maidenquinn / Maidenhead"
+repo = "Maidenquinn/reborn-build-planner"
+description = "Plan, import and track class builds with a read-only in-game HUD, spell priorities, equipment alternatives and four stages."
+category = "Combat"
+# No public software license has been selected yet; this is not a license grant.
+license = "NOASSERTION"
+folders = ["RebornBuildPlanner"]
+requires = []
+
+[source]
+type = "release"
+asset = "RebornBuildPlanner-*.zip"
+
+[reborn]
+status = "untested"
+tested = ""
+notes = "Author-tested v0.5.0 UI, minimap launcher, import/export and read-only tracker. Author confirms permission to distribute official catalogue data. Exact game-client version has not been recorded; further compatibility testing welcome. Requires bundled AzerothSurvivors and AzerothSurvivorsAPI; no automated gameplay actions."
