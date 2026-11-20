@@ -1,0 +1,21 @@
+# Author-proposed entry. Review/merge only after redistribution rights are cleared
+# and an eligible non-prerelease GitHub release is published.
+id = "reborn-build-planner"
+name = "Reborn Build Planner"
+author = "Maidenquinn / Maidenhead"
+repo = "Maidenquinn/reborn-build-planner"
+description = "Plan, import and track class builds with a read-only in-game HUD, spell priorities, equipment alternatives and four stages."
+category = "Combat"
+# No public software license has been selected yet; this is not a license grant.
+license = "NOASSERTION"
+folders = ["RebornBuildPlanner"]
+requires = []
+
+[source]
+type = "release"
+asset = "RebornBuildPlanner-*.zip"
+
+[reborn]
+status = "untested"
+tested = ""
+notes = "Author-tested beta UI, minimap button and read-only tracker. Exact game-version certification and redistribution rights for generated official catalog data remain pending. Requires the game's bundled AzerothSurvivors and AzerothSurvivorsAPI addons; no automated gameplay actions."
