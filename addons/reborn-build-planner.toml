@@ -18,4 +18,4 @@ asset = "RebornBuildPlanner-*.zip"
 [reborn]
 status = "untested"
 tested = ""
-notes = "Author-tested v0.5.1 adds one-click current-run capture, confirmed ban history and improved legendary amulet recognition; includes minimap launcher, import/export and read-only tracker. Author confirms permission to distribute official catalogue data. Exact game-client version has not been recorded; further compatibility testing welcome. Requires bundled AzerothSurvivors and AzerothSurvivorsAPI; no automated gameplay actions."
+notes = "Author-tested v0.5.1: capture current run, observed banishments preserved across reloads, improved legendary amulet identification, minimap launcher, import/export and read-only tracker. Author confirms catalogue redistribution permission. Requires bundled AzerothSurvivors and AzerothSurvivorsAPI. Game-client certification pending; no automated gameplay actions."
